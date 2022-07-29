@@ -1,7 +1,7 @@
 
 ## Note Taker
 
-## Questions
+## Contact
 <h2> made by <a href = "github.com/clairecashmore17">clairecashmore17</a></h2>
 <p>contact at clairecashmore2017@gmail.com </p> 
  
@@ -14,13 +14,13 @@ What it looks like!
 
 ## Table of Contents 
 
-        note-taker
+  
 - [Note Taker](#note-taker)
+-[Contact](#contact)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
         
